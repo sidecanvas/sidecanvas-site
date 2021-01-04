@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SideCanvas</title>
+    <description>Simply Elegant Illustrations</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2021 22:52:07 -0500</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2021 22:52:07 -0500</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Dealing with Artist&amp;#39;s block</title>
+        <description>&lt;p&gt;Thinking about what to next…&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2021 19:21:31 -0500</pubDate>
+        <link>/dealing-with-artists-block/</link>
+        <guid isPermaLink="true">/dealing-with-artists-block/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why Are Hands so Hard to Draw?</title>
+        <description>&lt;p&gt;Just keep practicing.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2021 19:09:27 -0500</pubDate>
+        <link>/why-are-hands-so-hard-to-draw/</link>
+        <guid isPermaLink="true">/why-are-hands-so-hard-to-draw/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Feeling Embarrassed about Sharing Art</title>
+        <description>&lt;p&gt;Does anyone else feel this way?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2021 19:09:27 -0500</pubDate>
+        <link>/feeling-embarrassed-about-sharing-art/</link>
+        <guid isPermaLink="true">/feeling-embarrassed-about-sharing-art/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
