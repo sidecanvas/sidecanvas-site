@@ -216,7 +216,7 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .listfeaturedtag .thumbnail { background-position: 50% 50% !important; }
 
-.listrelated .wrapthumbnail { height: 150px; flex: 0 0 auto; padding: 0px; }
+.listrelated .wrapthumbnail { height: 200px; flex: 0 0 auto; padding: 0px; }
 
 .listrelated .card { border-radius: 2px; padding-left: 0; margin-bottom: 15px; align-items: center; text-align: center; width: 100%; box-shadow: 0 0px 8px rgba(0, 0, 0, 0.15); }
 
