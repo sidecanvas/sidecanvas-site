@@ -49,6 +49,21 @@
   
     
     <url>
+      <loc>/links</loc>
+      
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>/contact/</loc>
       
         <lastmod>2018-02-01T13:55:50-05:00</lastmod>
@@ -66,7 +81,7 @@
     <url>
       <loc>/assets/css/custom.css</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,7 +98,7 @@
     <url>
       <loc>/</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,58 +109,13 @@
     </url>
     
   
-    
-  
-    
-    <url>
-      <loc>/tag/cut-files/</loc>
-      
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
     
     <url>
       <loc>/tag/cut-file/</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/tag/unicorn/</loc>
-      
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/tag/cute/</loc>
-      
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -160,7 +130,7 @@
     <url>
       <loc>/category/digital-craft-supplies/</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -175,7 +145,7 @@
     <url>
       <loc>/redirects.json</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -190,7 +160,7 @@
     <url>
       <loc>/robots.txt</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -205,7 +175,7 @@
     <url>
       <loc>/assets/css/custom.css.map</loc>
       
-        <lastmod>2021-01-06T10:11:59-05:00</lastmod>
+        <lastmod>2021-01-08T23:22:08-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
