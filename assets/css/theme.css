@@ -156,7 +156,7 @@ section.recent-posts {
 	margin-bottom:20px;
 }
 .listfeaturedtag .wrapthumbnail {
-	height:350px;
+	height:258px;
 	flex:0 0 auto;
 }
 .listfeaturedtag .card {
@@ -469,7 +469,7 @@ blockquote {
 		flex: 100%;
 	}
 	.listfeaturedtag .wrapthumbnail {
-		height:350px;
+		height:258px;
 	}
 	.listfeaturedtag .card {
 		height:auto;
