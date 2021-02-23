@@ -216,6 +216,8 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .thumbnail { background-position: 50% 50% !important; }
 
+.listfeaturedtag .card { margin-bottom: 2.5rem; }
+
 .listrelated .card { border-radius: 2px; padding-left: 0; margin-bottom: 15px; align-items: center; text-align: center; width: 100%; box-shadow: 0 0px 8px rgba(0, 0, 0, 0.15); }
 
 .listrelated .thumbnail { background-size: cover; height: 100%; display: block; background-origin: border-box !important; border-top-left-radius: 2px; }
