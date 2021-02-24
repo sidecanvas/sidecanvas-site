@@ -234,7 +234,7 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .listrelated .card { height: auto; }
 
-.listlinks .card { border-radius: 2px; height: auto; padding-left: 0; }
+.listlinks .card { border-radius: 2px; height: auto; }
 
 .listlinks .thumbnail { background-size: cover; height: 100%; display: block; border-top-left-radius: 2px; }
 
