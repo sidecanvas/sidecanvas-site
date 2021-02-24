@@ -226,7 +226,7 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .row .listlinks { width: 100%; margin: 0px; }
 
-.listlinks .wrapthumbnail, .listlinks .col-md-7 { -webkit-box-flex: 0; -webkit-flex: 100%; -ms-flex: 100%; flex: 100%; }
+.listlinks .wrapthumbnail, .listlinks .col-md-7 { -webkit-box-flex: 0; -webkit-flex: 100%; -ms-flex: 100%; flex: 100%; width: 100%; max-width: 100%; }
 
 .listrelated .card-block { padding: 0.5rem; }
 
@@ -234,7 +234,7 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .listrelated .card { height: auto; }
 
-.listlinks .card { border-radius: 2px; height: auto; }
+.listlinks .card { border-radius: 2px; height: auto; margin-bottom: 2rem; }
 
 .listlinks .thumbnail { background-size: cover; height: 100%; display: block; border-top-left-radius: 2px; }
 
