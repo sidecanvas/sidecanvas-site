@@ -168,7 +168,7 @@ ul.tag-tags li a:hover { background: rgba(230, 230, 250, 0.7); text-decoration: 
 
 .bottompagination span.navigation a { background: lavender; color: #333; padding: 5px; border-radius: 3px; text-transform: none; font-weight: 500; letter-spacing: 0; min-width: 100px; display: inline-block; }
 
-.bottompagination { padding: 15px 0px; }
+.bottompagination { padding-bottom: 2rem; }
 
 figure { display: block; text-align: center; }
 
