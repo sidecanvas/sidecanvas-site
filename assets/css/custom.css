@@ -222,7 +222,7 @@ figcaption, caption { color: grey; font-size: 75%; font-style: italic; text-alig
 
 .listrelated .thumbnail { background-size: cover; height: 100%; display: block; background-origin: border-box !important; border-top-left-radius: 2px; }
 
-.listrelated .wrapthumbnail { height: 200px; flex: 0 0 auto; padding: 0px; }
+.listrelated .wrapthumbnail { height: 10rem; flex: 0 0 auto; padding: 0px; }
 
 .row .listlinks { width: 100%; margin: 0px; }
 

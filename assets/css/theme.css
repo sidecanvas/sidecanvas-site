@@ -469,7 +469,7 @@ blockquote {
 		flex: 100%;
 	}
 	.listfeaturedtag .wrapthumbnail {
-		height:258px;
+		height:12rem;
 	}
 	.listfeaturedtag .card {
 		height:auto;
@@ -483,8 +483,18 @@ blockquote {
 	}
 }
 
+@media (min-width: 576px){
+    .featured-posts .listfeaturedtag .wrapthumbnail {
+        height:20rem;
+    }
+}
 
 
+@media (max-width: 576px){
+    .featured-posts .listfeaturedtag .wrapthumbnail {
+        height:12rem;
+    }
+}
 
 @media (max-width:0px) {
   .listlinks .wrapthumbnail {
