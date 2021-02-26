@@ -537,8 +537,18 @@ blockquote {
 
 @media (max-width:768px) {
   .listlinks .wrapthumbnail{
-    height:7rem;
+    height:9rem;
   }   
+    .listlinks .card {
+    background-color:#7c64bb;
+  }
+
+    .listlinks .card-title a, .listlinks .card-title a:hover {
+    color:white;
+  }
+  .listlinks .card-text a, .listlinks .card-text a:hover {
+    color:white;
+  }
 }
 
 @media (min-width:768px){
