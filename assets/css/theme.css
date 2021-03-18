@@ -421,6 +421,7 @@ blockquote {
     display: block;
     margin-bottom: 2rem;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
+    width: 100%;
 }
 .article-post img, .article-post iframe {
     box-shadow:0 6px 10px 0 rgba(0,0,0,0.1);
