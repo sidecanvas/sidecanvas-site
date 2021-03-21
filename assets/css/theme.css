@@ -638,6 +638,7 @@ ul.tags li a:hover {
     border-radius: .3rem;
     color:#fff;
     cursor: pointer;
+    background-color: #7e66bb;
 }
 a.btn {color:#fff;}
 
