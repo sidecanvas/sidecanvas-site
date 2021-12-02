@@ -5,9 +5,22 @@
     <description>Simply Elegant Illustrations</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Sep 2021 22:20:20 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Sep 2021 22:20:20 -0400</lastBuildDate>
+    <pubDate>Thu, 02 Dec 2021 00:10:20 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Dec 2021 00:10:20 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>How to Upload SVG Cut Files to Cricut Design Space on the Computer</title>
+        <description>&lt;p&gt;Uploading SVG files is an essential function within the Cricut Design Space program. It allows you to work with any designs you can get your hands on!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Dec 2021 19:30:00 -0500</pubDate>
+        <link>/how-to-upload-svg-cricut-design-space-computer/</link>
+        <guid isPermaLink="true">/how-to-upload-svg-cricut-design-space-computer/</guid>
+        
+        <tag>Cut File</tag>
+        
+        
+      </item>
     
       <item>
         <title>Guide to Choosing Nursery Wall Art</title>
@@ -81,7 +94,7 @@
       </item>
     
       <item>
-        <title>File Types for Cutting Machines: PNG, SVG, EPS, DXF</title>
+        <title>File Types for Cutting Machines: PNG, SVG, EPS, DXF, PDF</title>
         <description>&lt;p&gt;Not sure which cut file type you need to download for your next craft project? This guide will give you a quick rundown!&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jan 2021 19:21:31 -0500</pubDate>
